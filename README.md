@@ -1,7 +1,5 @@
 ![cacalabs-code](header.png)
 
-## Hey, I’m Caca 👩‍💻
-
 🌱 I’m currently learning **HTML, CSS, and JavaScript**  
 💡 I’m interested in **web development and UI/UX design**  
 📚 I love exploring new things and improving my skills  
