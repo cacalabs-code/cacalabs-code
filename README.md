@@ -1,4 +1,4 @@
-![cacalabs-code](img/header.png)
+![cacalabs-code](header.png)
 
 ## Hey, I’m Caca 👩‍💻
 
