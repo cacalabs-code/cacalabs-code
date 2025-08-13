@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey, I’m Caca 👩‍💻
 
-<!--
-**cacalabs-code/cacalabs-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **HTML, CSS, and JavaScript**  
+💡 I’m interested in **web development and UI/UX design**  
+📚 I love exploring new things and improving my skills  
+☕ Coffee and good music are my coding fuel
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Goals
+- Finish my first personal website
+- Learn Git & GitHub better
+- Build simple but beautiful projects
+
+---
+
+> _"Every expert was once a beginner."_ ✨
