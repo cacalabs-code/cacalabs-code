@@ -1,7 +1,7 @@
 ![cacalabs-code](header.png)
 
 🌱 I’m currently learning **HTML, CSS, and JavaScript**  
-💡 I’m interested in **web development and UI/UX design**  
+💡 I’m interested in **web development**  
 📚 I love exploring new things and improving my skills  
 ☕ Coffee and good music are my coding fuel
 
